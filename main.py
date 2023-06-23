@@ -90,7 +90,7 @@ def get_location_data(ip, access_key):
 
 def get_geocoding_data(query, region):
     params = {
-        'access_key': '621c10936f19f56a54be0dc609da7ea9',
+        'access_key': 'xxxxxxxxxxxxxxxxxxxxxxxx',
         'query': query,
         'region': region,
         'limit': 1,
